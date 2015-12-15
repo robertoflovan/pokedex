@@ -1,0 +1,22 @@
+{
+  "name": "pokedex",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Roberto Alejandro Flores Vanegas"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
